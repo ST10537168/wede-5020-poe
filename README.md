@@ -1,26 +1,51 @@
-# Project Title
-Your project's title
-
-## Student Information
-**Student number:** Your student number <br>
-**Student Name:** Your full name
+# Hidden Junk - Soweto Fashion Pop-up
 
 ## Project Overview
+Hidden Junk is a stylish multi-page website for a local clothing pop-up store based in Soweto. The website showcases unique, limited-edition clothing pieces created by local South African artists and designers every week. 
 
-Pull this from your project proposal.
+No complex shopping cart is used — customers simply contact the store via WhatsApp or phone to place orders.
 
-## Website Goals and Objectives
+## Features
+- Clean, modern, and mobile-responsive design
+- Vibrant teal and orange colour scheme
+- Weekly clothing collection showcase (6 products)
+- Simple navigation across four pages
+- Direct "Contact Us to Order" buttons
+- First-person authentic tone in content
 
-Pull this from your project proposal.
+## Pages Included
+- `index.html` - Home
+- `about.html` - About Us
+- `products.html` - This Week's Collection
+- `contact.html` - Contact (with WhatsApp, Call, Email)
 
-## Timeline and Milestones
+## Target Audience
+Young adults, fashion lovers, and supporters of local Soweto and South African designers who want unique streetwear.
 
-Pull this from your project proposal.
+## Technologies Used
+- HTML5
+- CSS3 (Flexbox + Grid)
+- Fully responsive design
 
-## Sitemap
+## Folder Structure
+hidden-junk/
+├── index.html
+├── about.html
+├── products.html
+├── contact.html
+├── style.css
+└── images/ (hero.jpg + 6 product images)
+text## How to Run
+1. Open the `index.html` file in any modern web browser.
+2. No server or installation required.
 
-![Website Sitemap](img/mysitemap.png) <br> (The one here is only an example, include your own site map)
+## Design Highlights
+- Bold teal (#006666) and orange (#FF6600) colour scheme
+- Card-based product layout
+- Easy-to-use contact section with clickable WhatsApp link
 
-## References
+## Author
+Built for Web Development Assignment
 
-Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
+## Date
+April 2026
